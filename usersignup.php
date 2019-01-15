@@ -9,7 +9,7 @@ body{background: #2C3E50;
 .form
      {
         width: 340px;
-        height: 620px;
+        height: 565px;
         background: #e6e6e6;
         border-radius: 8px;
         box-shadow: 0 0 40px -10px #000;
@@ -20,6 +20,7 @@ body{background: #2C3E50;
         box-sizing: border-box;
         font-family: 'Montserrat',sans-serif;
         position: relative;
+        transform: translate(0%,-13%); 
           }
         h2
         {
